@@ -1,5 +1,3 @@
-this is my sample code. this is for learning git
 
-i learning get
-1.understand
-2.better
+ok,go ahead with git learning at the earliest.coming week , we plan for demo
+
