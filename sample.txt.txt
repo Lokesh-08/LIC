@@ -1,1 +1,3 @@
 this is my sample code. this is for learning git
+
+ok,go ahead with git learning at the earliest.coming week , we plan for demo
